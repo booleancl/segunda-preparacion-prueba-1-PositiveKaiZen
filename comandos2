@@ -2,14 +2,7 @@
 
 # Eliminar la carpeta "externos" dentro de la carpeta distribuidora
 cd distribuidora
-cd externos
-cd test
-rm test-remove-directory
-rm test-directories
-rm setup
-cd ..
-rmdir test
-cd ..
+
 rmdir externos
 
 
